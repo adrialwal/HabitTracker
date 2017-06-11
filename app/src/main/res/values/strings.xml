@@ -1,0 +1,60 @@
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Habit Tracker</string>
+
+    <!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all entries data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Entries</string>
+
+    <!-- Title for the activity to add a new habit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for type of activity category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Type of Activity</string>
+
+    <!-- Label for the day of the week information in the editor [CHAR LIMIT=30] -->
+    <string name="category_day_of_week">Day of the Week</string>
+
+    <!-- Label for the amount of time of activity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_amount_of_time">Amount of Time</string>
+
+    <!-- Text hint for type of activity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_activity_type">Type of Activity</string>
+
+    <!-- Text hint for amount of time field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_amount_of_time">Amount of Time</string>
+
+    <!-- Amount of minutes [CHAR LIMIT=5] -->
+    <string name="unit_minutes">minutes</string>
+
+    <!-- Label for dropdown menu option Sunday  [CHAR LIMIT=20] -->
+    <string name="day_sunday">Sunday</string>
+
+    <!-- Label for dropdown menu option Monday [CHAR LIMIT=20] -->
+    <string name="day_monday">Monday</string>
+
+    <!-- Label for dropdown menu option Tuesday [CHAR LIMIT=20] -->
+    <string name="day_tuesday">Tuesday</string>
+
+    <!-- Label for dropdown menu option Wednesday [CHAR LIMIT=20] -->
+    <string name="day_wednesday">Wednesday</string>
+
+    <!-- Label for dropdown menu option Thursday [CHAR LIMIT=20] -->
+    <string name="day_thursday">Thursday</string>
+
+    <!-- Label for dropdown menu option Friday [CHAR LIMIT=20] -->
+    <string name="day_friday">Friday</string>
+
+    <!-- Label for dropdown menu option Saturday [CHAR LIMIT=20] -->
+    <string name="day_saturday">Saturday</string>
+
+</resources>
+
